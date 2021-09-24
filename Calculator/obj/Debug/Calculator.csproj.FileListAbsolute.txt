@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\user\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\user\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\user\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

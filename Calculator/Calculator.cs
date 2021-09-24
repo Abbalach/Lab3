@@ -284,8 +284,6 @@ namespace Calculator
             {
                 try
                 {
-
-
                     var BracketExpressions = new List<string>();
                     var BracketList = new List<char>();
                     for (int i = 0; i < localexpression.Length; i++)
